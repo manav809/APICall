@@ -1,0 +1,17 @@
+/Users/manavpatel/Desktop/APIs/WebAPIClient/bin/Debug/net6.0/WebAPIClient
+/Users/manavpatel/Desktop/APIs/WebAPIClient/bin/Debug/net6.0/WebAPIClient.deps.json
+/Users/manavpatel/Desktop/APIs/WebAPIClient/bin/Debug/net6.0/WebAPIClient.runtimeconfig.json
+/Users/manavpatel/Desktop/APIs/WebAPIClient/bin/Debug/net6.0/WebAPIClient.dll
+/Users/manavpatel/Desktop/APIs/WebAPIClient/bin/Debug/net6.0/WebAPIClient.pdb
+/Users/manavpatel/Desktop/APIs/WebAPIClient/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.AssemblyReference.cache
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfoInputs.cache
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfo.cs
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.CopyComplete
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/WebAPIClient.dll
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/refint/WebAPIClient.dll
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/WebAPIClient.pdb
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/WebAPIClient.genruntimeconfig.cache
+/Users/manavpatel/Desktop/APIs/WebAPIClient/obj/Debug/net6.0/ref/WebAPIClient.dll
