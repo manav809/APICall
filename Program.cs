@@ -1,10 +1,11 @@
-﻿using System;
+﻿//Manav Minesh Patel
+using System;
 using System.Threading.Tasks;
 using System.Net.Http;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace WebAPIClient // Note: actual namespace depends on the project name.
+namespace WebAPIClient 
 {
     class House
     {
